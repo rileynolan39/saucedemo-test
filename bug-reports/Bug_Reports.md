@@ -1,0 +1,3 @@
+| Bug ID | Title                          | Steps to Reproduce                                                                  | Expected Result                         | Actual Result                          | Severity | Priority |
+|--------|--------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------|----------|----------|
+| BUG_001| Checkout with empty cart       | 1. Navigate to cart without adding anything 2. Click "Checkout"                     | Checkout button should not function     | Redirected to checkout page            | Medium   | Medium   |
