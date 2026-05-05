@@ -24,11 +24,9 @@
 | TC_022       | Navigate to Item     | Pass                  | Navigation to correct item page is successful
 | TC_023       | Back to Products     | Pass                  | Navigation back to product page successful
 | TC_024       | Item Information     | Pass                  | All information is correct
-
 | TC_101       | Valid Login(Lock out)| Pass             	  | Error message for locked out user successfully displays                                                                    
 | TC_102       | Invalid Login        | Pass                  | Invalid Username/Password error correctly displays
 | TC_103       | Empty Fields         | Pass                  | Empty field error correctly displays, though defaults to empty username when both are empty
-
 | TC_201       | Valid Login          | Pass             	  | User successfully logged in and brought to product page                                                                    
 | TC_202       | Invalid Login        | Pass                  | Invalid Username/Password error correctly displays
 | TC_203       | Empty Fields         | Pass                  | Empty field error correctly displays, though defaults to empty username when both are empty
@@ -53,7 +51,6 @@
 | TC_222       | Navigate to Item     | Fail                  | Item images on products page are incorrect, no item link navigates to the correct page, Fleece link navigates to an item not found page
 | TC_223       | Back to Products     | Pass                  | Navigation back to product page successful
 | TC_224       | Item Information     | Fail                  | All item images on product page incorrect, all prices are correct
-
 | TC_301       | Valid Login          | Pass             	  | User successfully logged in and brought to product page, long load time after clicking "Login"                                                
 | TC_302       | Invalid Login        | Pass                  | Username/Password mismatch error correctly displays
 | TC_303       | Empty Fields         | Pass                  | Empty field error correctly displays, though defaults to empty username when both are empty
@@ -78,7 +75,6 @@
 | TC_322       | Navigate to Item     | Pass                  | Navigation to correct item page is successful
 | TC_323       | Back to Products     | Pass                  | Navigation back to product page successful, long load time after clicking "Back to Prodcuts"
 | TC_324       | Item Information     | Pass                  | All information is correct
-
 | TC_401       | Valid Login          | Pass             	  | User successfully logged in and brought to product page                                                                    
 | TC_402       | Invalid Login        | Pass                  | Username/Password mismatch error correctly displays
 | TC_403       | Empty Fields         | Pass                  | Empty field error correctly displays, though defaults to empty username when both are empty
@@ -103,7 +99,6 @@
 | TC_422       | Navigate to Item     | Pass                  | Navigation to correct item page is successful
 | TC_423       | Back to Products     | Pass                  | Navigation back to product page successful
 | TC_424       | Item Information     | Pass                  | All information is correct
-
 | TC_501       | Valid Login          | Pass             	  | User successfully logged in and brought to product page                                                                    
 | TC_502       | Invalid Login        | Pass                  | Username/Password mismatch error correctly displays
 | TC_503       | Empty Fields         | Pass                  | Empty field error correctly displays, though defaults to empty username when both are empty
