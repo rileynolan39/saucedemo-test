@@ -1,5 +1,5 @@
-# saucedemo-test
 # SauceDemo Manual Testing Project
+https://www.saucedemo.com
 
 ## 📌 Objective
 To perform manual testing on the SauceDemo web application and identify functional defects.
@@ -23,8 +23,8 @@ To perform manual testing on the SauceDemo web application and identify function
 - Test Summary Report
 
 ## 📊 Results
-- Total Test Cases: 20
-- Bugs Identified: 1
+- Total Test Cases: 123
+- Bugs Identified: 24
 
 ## 🚀 Key Highlights
 - Designed comprehensive test cases
