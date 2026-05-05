@@ -5,32 +5,32 @@ This document summarizes the results of manual testing performed on the SauceDem
 
 ## 2. Test Execution Summary
 - Total Test Cases: 123
-- Passed: 99
-- Failed: 24
+  - Passed: 99
+  - Failed: 24
 
 - Group 0 Test Cases: 24
-- Passed: 24
-- Failed: 0
+  - Passed: 24
+  - Failed: 0
 
 - Group 1 Test Cases: 3
-- Passed: 3
-- Failed: 0
+  - Passed: 3
+  - Failed: 0
 
 - Group 2 Test Cases: 24
-- Passed: 11
-- Failed: 13
+  - Passed: 11
+  - Failed: 13
 
 - Group 3 Test Cases: 24
-- Passed: 24
-- Failed: 0
+  - Passed: 24
+  - Failed: 0
 
 - Group 4 Test Cases: 24
-- Passed: 14
-- Failed: 10
+  - Passed: 14
+  - Failed: 10
 
 - Group 5 Test Cases: 24
-- Passed: 23
-- Failed: 1
+  - Passed: 23
+  - Failed: 1
 
 ## 3. Defect Summary
 - Total Defects: 24

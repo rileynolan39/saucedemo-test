@@ -4,7 +4,7 @@
 | TC_002       | Invalid Login        | User is on login page | 1. Enter valid username  2. Enter invalid password  3. Click Login    			| Error message is displayed                           | High     |
 | TC_003       | Empty Fields         | User is on login page | 1. Leave username blank  2. Leave password blank  3. Click Login      			| Validation error message is displayed                | Medium   |
 | TC_004	   | Sort Items (Z to A)  | User is logged in 	  | 1. Click Sort dropdown  2. Select Name (Z to A)					  	  			| Products sorted in reverse alphabetical order		   | Low	  |
-| TC_005	   | Sort Items (A to Z)  | User is logged in 	  | 1. Click Sort dropdown  2. Select Name (A to Z)					  	  			| Products sorted in alphabetical order				   | Low	  |
+| TC_005	   | Sort Items (A to Z)  | User is logged in 	  | 1. Click Sort dropdown 2. Select Name (A to Z) (If already sorted A-Z, select another option first)| Products sorted in alphabetical order				   | Low	  |
 | TC_006	   | Sort Items Price Asc | User is logged in 	  | 1. Click Sort dropdown  2. Select Price (low to high)				  			| Products sorted in ascending price order		   	   | Low	  |
 | TC_007	   | Sort Items Price Desc| User is logged in 	  | 1. Click Sort dropdown  2. Select Name (high to low)				  			| Products sorted in descending price order			   | Low	  |
 | TC_008       | Add Item to Cart     | User is logged in     | 1. Click “Add to Cart” on a product 2. Repeat for all products and item pages   | Product is added to cart                             | High     |
